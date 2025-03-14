@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "0ld Camel"
   avatar : "/assets/images/camel.png"
   bio    : "Old Camel wondering the Arabian desert"
   links:
