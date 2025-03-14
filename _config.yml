@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: 0ldcamel
 minimal_mistakes_skin: default
 search: true
+layout: splash
 
 # Build settings
 markdown: kramdown
